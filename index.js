@@ -21,7 +21,15 @@ function isTruthy(x) {
 };
 
 function area(r) {
-    let math = Math()
+    
+    
+    
+    
+    let math = Math(
+    
+    
+    
+    )
     return math.PI * r * r;
 }
 
@@ -53,7 +61,12 @@ function isGreaterThan(arr, x){
 
 function callHiEveryMinutes(x){
     if(!window && x){
-        setTimeout("alert('Hi')", x * 1000)
+        setTimeout(
+            
+            
+            
+            
+            "alert('Hi')", x * 1000)
 
     }   else    window.setTimeout("alert('Hi')", x * 1000)
 }
